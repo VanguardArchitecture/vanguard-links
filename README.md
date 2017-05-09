@@ -5,7 +5,7 @@
 [Grooming Focus] [#]
 [Active Work Focus] [#]
 
-[#] [Test]
+[# | Test]
 
 # Issues Lists in JIRA
 [Open Items related] [#]
